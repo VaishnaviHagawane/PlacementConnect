@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class PerfectNum{
     public static void main(String args[]){
          Scanner sc=new Scanner (System.in);
          System.out.println("Enter the max range of Perfect no.");
