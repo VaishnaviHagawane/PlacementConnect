@@ -26,7 +26,7 @@ public class OccurenceNo
 	    Scanner sc=new Scanner(System.in);
 	    System.out.println("Enter the number: ");
 	    String number=sc.nextLine();
-	    Main m=new Main();
+	    OccurenceNo m=new OccurenceNo();
 	    m.freqCount(number);
 	}
 }
